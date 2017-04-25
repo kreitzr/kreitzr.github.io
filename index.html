@@ -1,19 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
-<script src="b4w.min.js"></script>
-<script>
-function hello() {
-    var m_main = b4w.require("main");
-    var m_data = b4w.require("data");
 
-    var canvas_elem = document.getElementById("canvas_id");
-    m_main.init(canvas_elem);
-    m_data.load("Blend4Web Test 1.json");
-}
-</script>
-</head>
+<body>
 
-<body onload="hello()"><canvas id="canvas_id"></canvas></body>
+    <iframe src="https://kreitzr.github.io/webplayer.html?load=Blend4Web%20Test%201.json" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
+    </iframe>
+
+</body>
 
 </html>
