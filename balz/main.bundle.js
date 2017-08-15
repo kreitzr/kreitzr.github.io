@@ -166,7 +166,7 @@ var AppComponent = (function () {
 }());
 AppComponent = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_core__["c" /* Component */])({
-        selector: 'my-app',
+        selector: 'app-root',
         template: __webpack_require__("../../../../../src/app/app.component.html"),
         styles: [__webpack_require__("../../../../../src/app/app.component.css")],
         providers: [__WEBPACK_IMPORTED_MODULE_3__b4w_service__["a" /* Blend4WebService */]]
