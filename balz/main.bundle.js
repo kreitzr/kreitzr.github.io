@@ -34,7 +34,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"controls\">\r\n    <div (input)=\"sliderChanged($event)\">\r\n        <input type=\"range\" id=\"Color1\" [value]=\"interval1\" (input)=\"interval1=$event.target.value\" min=\"10\" max=\"500\">\r\n        <input type=\"range\" id=\"Color2\" [value]=\"interval2\" (input)=\"interval2=$event.target.value\" min=\"10\" max=\"500\">\r\n    </div>\r\n     <label class=\"switch\">\r\n        <input type=\"checkbox\" [(ngModel)]=\"recordEnabled\" (ngModelChange)=\"recordModeChanged()\"/>\r\n    </label> \r\n    <audio autoplay></audio>\r\n</div>\r\n<div id=\"main_canvas_container\"></div>\r\n\r\n"
+module.exports = "<div class=\"controls\">\r\n    <div (input)=\"sliderChanged($event)\">\r\n        <input type=\"range\" id=\"Color1\" [value]=\"interval1\" (input)=\"interval1=$event.target.value\" min=\"10\" max=\"500\">\r\n        <input type=\"range\" id=\"Color2\" [value]=\"interval2\" (input)=\"interval2=$event.target.value\" min=\"10\" max=\"500\">\r\n    </div>\r\n     <label class=\"switch\">\r\n        <input type=\"checkbox\" [(ngModel)]=\"recordEnabled\" (ngModelChange)=\"recordModeChanged()\"/>\r\n    </label> \r\n     <!-- <audio autoplay></audio>  -->\r\n</div>\r\n<div id=\"main_canvas_container\"></div>\r\n\r\n"
 
 /***/ }),
 
@@ -80,13 +80,13 @@ var AppComponent = (function () {
             });
         };
         this.enableAudioCapture = function () {
-            var audio = document.querySelector('audio');
+            // let audio = document.querySelector('audio');
             if (_this.recordEnabled) {
                 navigator.getUserMedia({
                     audio: true
                 }, function (stream) {
-                    audio.src = URL.createObjectURL(stream);
-                    audio.play();
+                    // audio.src = URL.createObjectURL(stream);
+                    // audio.play();
                     _this.audioStream = stream;
                     var source = _this.audioContext.createMediaStreamSource(stream);
                     source.connect(_this.analyser);
