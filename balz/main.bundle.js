@@ -21,7 +21,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, "body {\n  background-color: #000;\n  margin: 0;\n  overflow: hidden;\n}\n\n#main_canvas_container {\n  position: absolute;\n  left: 0px;\n  top: 0px;\n  width: 100%;\n  height: 100%;\n  background-color: green;\n}\n\n#data {\n  position: absolute;\n  width: 100%;\n  left: 5%;\n  bottom: 4%;\n  z-index: 1;\n  font-size: x-large;\n}\n\n .controls {\n  position: absolute;\n  width: 100%;\n  left: 20%;\n  bottom: 4%; \n  z-index: 2; \n} \n\n#Color1 {\n  direction: rtl;\n  width:30%;\n}\n\n#Color2 {\n  direction: rtl;\n  width:30%;\n}\n\ninput[type=range]:focus {\n  outline: none;\n}\n\ninput[type=range]::-webkit-slider-runnable-track {\n  width: 100%;\n  height: 8px;\n  cursor: pointer;\n  background-color: #fff;\n  border: 2px solid rgba(98, 98, 98, .2);\n  box-shadow: 0px 0px 4px 0px rgba(98, 98, 98, .8);\n}\n\ninput[type=range]::-ms-track {\n  width: 100%;\n  height: 8px;\n  cursor: pointer;\n  background-color: #fff;\n  border: 2px solid rgba(98, 98, 98, .2);\n  box-shadow: 0px 0px 4px 0px rgba(98, 98, 98, .8);\n}\n\ninput[type=range]::-moz-range-track {\n  height: 8px;\n  width: 100%;\n  cursor: pointer;\n  background-color: #fff;\n  border: 2px solid rgba(98, 98, 98, .2);\n  box-shadow: 0px 0px 4px 0px rgba(98, 98, 98, .8);\n}\n\ninput[type=range]::-webkit-slider-thumb {\n  box-shadow: 0px 0px 4px 0px rgba(98, 98, 98, .8);\n  height: 30px;\n  width: 16px;\n  border-radius: 2px;\n  background-color: #323232;\n  cursor: pointer;\n  margin-top: -13px;\n  -webkit-appearance: none;\n}\n\ninput[type=range]::-ms-thumb {\n  box-shadow: 0px 0px 4px 0px rgba(98, 98, 98, .8);\n  height: 30px;\n  width: 16px;\n  border-radius: 2px;\n  background-color: #323232;\n  cursor: pointer;\n  margin-top: -13px;\n  -webkit-appearance: none;\n}\n\ninput[type=range]::-moz-range-thumb {\n  box-shadow: 0px 0px 4px 0px rgba(98, 98, 98, .8);\n  height: 30px;\n  width: 16px;\n  border-radius: 2px;\n  background-color: #323232;\n  cursor: pointer;\n  margin-top: -13px;\n  border: 0;\n  -webkit-appearance: none;\n}\n\ninput[type=range]:focus::-webkit-slider-runnable-track {\n  background: #5276cf;\n}\n\ninput[type=range]:focus::-ms-track {\n  background: #5276cf;\n}\n\ninput[type=range]:focus::-webkit-slider-thumb {\n  box-shadow: 0px 0px 6px 0px rgba(98, 98, 98, 1);\n}\n\ninput[type=range]:focus::-moz-range-track {\n  background: #5276cf;\n  outline-color: transparent;\n  border-color: transparent;\n}\n\ninput[type=range]:focus::-moz-range-thumb {\n  box-shadow: 0px 0px 6px 0px rgba(98, 98, 98, 1);\n}\n", ""]);
+exports.push([module.i, "body {\r\n  background-color: #000;\r\n  margin: 0;\r\n  overflow: hidden;\r\n}\r\n\r\n#main_canvas_container {\r\n  position: absolute;\r\n  left: 0px;\r\n  top: 0px;\r\n  width: 100%;\r\n  height: 100%;\r\n  background-color: green;\r\n}\r\n\r\n#data {\r\n  position: absolute;\r\n  width: 100%;\r\n  left: 5%;\r\n  bottom: 4%;\r\n  z-index: 1;\r\n  font-size: x-large;\r\n}\r\n\r\n .controls {\r\n  position: absolute;\r\n  width: 100%;\r\n  left: 20%;\r\n  bottom: 4%; \r\n  z-index: 2; \r\n} \r\n\r\n#Color1 {\r\n  direction: rtl;\r\n  width:30%;\r\n}\r\n\r\n#Color2 {\r\n  direction: rtl;\r\n  width:30%;\r\n}\r\n\r\ninput[type=range]:focus {\r\n  outline: none;\r\n}\r\n\r\ninput[type=range]::-webkit-slider-runnable-track {\r\n  width: 100%;\r\n  height: 8px;\r\n  cursor: pointer;\r\n  background-color: #fff;\r\n  border: 2px solid rgba(98, 98, 98, .2);\r\n  box-shadow: 0px 0px 4px 0px rgba(98, 98, 98, .8);\r\n}\r\n\r\ninput[type=range]::-ms-track {\r\n  width: 100%;\r\n  height: 8px;\r\n  cursor: pointer;\r\n  background-color: #fff;\r\n  border: 2px solid rgba(98, 98, 98, .2);\r\n  box-shadow: 0px 0px 4px 0px rgba(98, 98, 98, .8);\r\n}\r\n\r\ninput[type=range]::-moz-range-track {\r\n  height: 8px;\r\n  width: 100%;\r\n  cursor: pointer;\r\n  background-color: #fff;\r\n  border: 2px solid rgba(98, 98, 98, .2);\r\n  box-shadow: 0px 0px 4px 0px rgba(98, 98, 98, .8);\r\n}\r\n\r\ninput[type=range]::-webkit-slider-thumb {\r\n  box-shadow: 0px 0px 4px 0px rgba(98, 98, 98, .8);\r\n  height: 30px;\r\n  width: 16px;\r\n  border-radius: 2px;\r\n  background-color: #323232;\r\n  cursor: pointer;\r\n  margin-top: -13px;\r\n  -webkit-appearance: none;\r\n}\r\n\r\ninput[type=range]::-ms-thumb {\r\n  box-shadow: 0px 0px 4px 0px rgba(98, 98, 98, .8);\r\n  height: 30px;\r\n  width: 16px;\r\n  border-radius: 2px;\r\n  background-color: #323232;\r\n  cursor: pointer;\r\n  margin-top: -13px;\r\n  -webkit-appearance: none;\r\n}\r\n\r\ninput[type=range]::-moz-range-thumb {\r\n  box-shadow: 0px 0px 4px 0px rgba(98, 98, 98, .8);\r\n  height: 30px;\r\n  width: 16px;\r\n  border-radius: 2px;\r\n  background-color: #323232;\r\n  cursor: pointer;\r\n  margin-top: -13px;\r\n  border: 0;\r\n  -webkit-appearance: none;\r\n}\r\n\r\ninput[type=range]:focus::-webkit-slider-runnable-track {\r\n  background: #5276cf;\r\n}\r\n\r\ninput[type=range]:focus::-ms-track {\r\n  background: #5276cf;\r\n}\r\n\r\ninput[type=range]:focus::-webkit-slider-thumb {\r\n  box-shadow: 0px 0px 6px 0px rgba(98, 98, 98, 1);\r\n}\r\n\r\ninput[type=range]:focus::-moz-range-track {\r\n  background: #5276cf;\r\n  outline-color: transparent;\r\n  border-color: transparent;\r\n}\r\n\r\ninput[type=range]:focus::-moz-range-thumb {\r\n  box-shadow: 0px 0px 6px 0px rgba(98, 98, 98, 1);\r\n}\r\n", ""]);
 
 // exports
 
@@ -44,9 +44,7 @@ module.exports = "<div class=\"controls\">\r\n    <div (input)=\"sliderChanged($
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__b4w_balls_module__ = __webpack_require__("../../../../../src/app/b4w-balls-module.ts");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__("../../../core/@angular/core.es5.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Rx__ = __webpack_require__("../../../../rxjs/Rx.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Rx___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_Rx__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__b4w_service__ = __webpack_require__("../../../../../src/app/b4w.service.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__b4w_service__ = __webpack_require__("../../../../../src/app/b4w.service.ts");
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppComponent; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -60,24 +58,26 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 
-
 var AppComponent = (function () {
     function AppComponent(b4w) {
         var _this = this;
         this.b4w = b4w;
         this.name = 'Blend4Web Test';
-        this.interval1 = 500;
-        this.interval2 = 500;
+        this.interval1 = 1000;
+        this.interval2 = 1000;
         this.recordEnabled = false;
-        this.subs = {};
+        // private subs = {};
+        this.ballTimers = {};
         this.balls = new __WEBPACK_IMPORTED_MODULE_0__b4w_balls_module__["a" /* BallsModule */]();
         this.initScene = function () {
-            _this.subs['Color1'] = __WEBPACK_IMPORTED_MODULE_2_rxjs_Rx__["Observable"].timer(0, 2000).subscribe(function () {
-                _this.balls.genBall('Color1');
-            });
-            _this.subs['Color2'] = __WEBPACK_IMPORTED_MODULE_2_rxjs_Rx__["Observable"].timer(1000, 2000).subscribe(function () {
-                _this.balls.genBall('Color2');
-            });
+            _this.setBallTimer('Color1', _this.interval1);
+            _this.setBallTimer('Color2', _this.interval2);
+            // this.subs['Color1'] = Observable.timer(0, 2000).subscribe(() => {
+            //   this.balls.genBall('Color1');
+            // });
+            // this.subs['Color2'] = Observable.timer(1000, 2000).subscribe(() => {
+            //   this.balls.genBall('Color2');
+            // });
         };
         this.enableAudioCapture = function () {
             // let audio = document.querySelector('audio');
@@ -107,28 +107,28 @@ var AppComponent = (function () {
                 requestAnimationFrame(_this.visualize);
             }
             _this.analyser.fftSize = 32;
-            _this.analyser.minDecibels = -50;
-            _this.analyser.maxDecibels = 0;
+            // this.analyser.minDecibels = -70;
+            // this.analyser.maxDecibels = 0;
             var bufferLength = _this.analyser.frequencyBinCount;
             var dataArray = new Uint8Array(bufferLength);
             // let dataArray = new Float32Array(bufferLength);
             _this.analyser.getByteFrequencyData(dataArray);
             // this.analyser.getFloatFrequencyData(dataArray);
-            var getAverage = function (data) {
+            var avg = function () {
                 var sum = 0;
-                for (var i = 0; i < data.length; i++) {
-                    sum += data[i];
-                    return sum / data.length;
+                for (var i = 0; i < dataArray.length; i++) {
+                    sum += dataArray[i];
+                    return sum / dataArray.length;
                 }
+                ;
             };
-            var avg = getAverage(dataArray);
-            if (avg > 0 && avg < 6.5) {
-                // console.log(avg);
-                _this.balls.genBall('Color1');
-            }
-            else if (avg > 6.5) {
-                _this.balls.genBall('Color2');
-            }
+            // if (avg > 0 && avg < 6.5) {
+            //   // console.log(avg);
+            //   this.balls.genBall('Color1');
+            // } else if (avg > 6.5) {
+            //   this.balls.genBall('Color2');
+            // }
+            _this.setBallTimer('Color1', avg());
         };
         this.balls.onLoadCallback$.subscribe(this.initScene);
     }
@@ -137,23 +137,30 @@ var AppComponent = (function () {
         this.analyser = this.audioContext.createAnalyser();
         this.b4w.InitModule(this.balls);
     };
-    AppComponent.prototype.initTimers = function (id, value) {
-        var _this = this;
-        this.subs[id].unsubscribe();
-        this.subs[id] = __WEBPACK_IMPORTED_MODULE_2_rxjs_Rx__["Observable"].timer(value / 2, value).subscribe(function () {
-            _this.balls.genBall(id);
-        });
+    // private initTimers(id: string, value: number) {
+    //   this.subs[id].unsubscribe();
+    //   this.subs[id] = Observable.timer(value / 2, value).subscribe(() => {
+    //     this.balls.genBall(id);
+    //   });
+    // }
+    AppComponent.prototype.setBallTimer = function (id, value) {
+        clearInterval(this.ballTimers[id]);
+        this.ballTimers[id] = setInterval(this.balls.genBall, value, id);
     };
     AppComponent.prototype.sliderChanged = function (e) {
-        this.initTimers(e.target.id, e.target.value);
+        // this.initTimers(e.target.id, e.target.value);
+        this.setBallTimer(e.target.id, e.target.value);
     };
     AppComponent.prototype.recordModeChanged = function () {
         var _this = this;
         if (this.recordEnabled) {
             // Clear ball timers
-            Object.keys(this.subs).forEach(function (key) {
-                _this.subs[key].unsubscribe();
+            Object.keys(this.ballTimers).forEach(function (key) {
+                clearInterval(_this.ballTimers[key]);
             });
+        }
+        else {
+            this.initScene();
         }
         this.enableAudioCapture();
     };
@@ -169,9 +176,9 @@ AppComponent = __decorate([
         selector: 'app-root',
         template: __webpack_require__("../../../../../src/app/app.component.html"),
         styles: [__webpack_require__("../../../../../src/app/app.component.css")],
-        providers: [__WEBPACK_IMPORTED_MODULE_3__b4w_service__["a" /* Blend4WebService */]]
+        providers: [__WEBPACK_IMPORTED_MODULE_2__b4w_service__["a" /* Blend4WebService */]]
     }),
-    __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_3__b4w_service__["a" /* Blend4WebService */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_3__b4w_service__["a" /* Blend4WebService */]) === "function" && _a || Object])
+    __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_2__b4w_service__["a" /* Blend4WebService */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_2__b4w_service__["a" /* Blend4WebService */]) === "function" && _a || Object])
 ], AppComponent);
 
 var _a;
