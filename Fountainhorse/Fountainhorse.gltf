@@ -1,0 +1,925 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0, 
+            "componentType" : 5123, 
+            "count" : 289053, 
+            "max" : [
+                61555
+            ], 
+            "min" : [
+                0
+            ], 
+            "type" : "SCALAR"
+        }, 
+        {
+            "bufferView" : 1, 
+            "componentType" : 5126, 
+            "count" : 61556, 
+            "max" : [
+                13.243732452392578, 
+                4.562154293060303, 
+                11.674442291259766
+            ], 
+            "min" : [
+                0.8584401607513428, 
+                -7.82802152633667, 
+                -0.7423822283744812
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 2, 
+            "componentType" : 5126, 
+            "count" : 61556, 
+            "max" : [
+                0.999908447265625, 
+                0.999969482421875, 
+                0.999969482421875
+            ], 
+            "min" : [
+                -0.999969482421875, 
+                -0.999420166015625, 
+                -0.9998779296875
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 3, 
+            "componentType" : 5126, 
+            "count" : 61556, 
+            "max" : [
+                0.9999899864196777, 
+                0.9999792575836182, 
+                0.9999477863311768, 
+                1.0
+            ], 
+            "min" : [
+                -0.9999890923500061, 
+                -0.9999256730079651, 
+                -0.9999179244041443, 
+                -1.0
+            ], 
+            "type" : "VEC4"
+        }, 
+        {
+            "bufferView" : 4, 
+            "componentType" : 5126, 
+            "count" : 61556, 
+            "max" : [
+                0.9992679953575134, 
+                0.99925599998096
+            ], 
+            "min" : [
+                0.0007319999858736992, 
+                0.0007380247116088867
+            ], 
+            "type" : "VEC2"
+        }, 
+        {
+            "bufferView" : 5, 
+            "componentType" : 5123, 
+            "count" : 301563, 
+            "max" : [
+                65048
+            ], 
+            "min" : [
+                0
+            ], 
+            "type" : "SCALAR"
+        }, 
+        {
+            "bufferView" : 6, 
+            "componentType" : 5126, 
+            "count" : 65049, 
+            "max" : [
+                10.828437805175781, 
+                8.523393630981445, 
+                9.271434783935547
+            ], 
+            "min" : [
+                -11.247281074523926, 
+                -7.827902793884277, 
+                -3.7622790336608887
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 7, 
+            "componentType" : 5126, 
+            "count" : 65049, 
+            "max" : [
+                0.99993896484375, 
+                0.99993896484375, 
+                0.999969482421875
+            ], 
+            "min" : [
+                -0.999969482421875, 
+                -0.99981689453125, 
+                -0.999969482421875
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 8, 
+            "componentType" : 5126, 
+            "count" : 65049, 
+            "max" : [
+                0.9998946785926819, 
+                0.9999997019767761, 
+                0.99991375207901, 
+                1.0
+            ], 
+            "min" : [
+                -0.9999926090240479, 
+                -0.9999921321868896, 
+                -0.9999877214431763, 
+                -1.0
+            ], 
+            "type" : "VEC4"
+        }, 
+        {
+            "bufferView" : 9, 
+            "componentType" : 5126, 
+            "count" : 65049, 
+            "max" : [
+                0.9992679953575134, 
+                0.999262000026647
+            ], 
+            "min" : [
+                0.0007319999858736992, 
+                0.000845491886138916
+            ], 
+            "type" : "VEC2"
+        }, 
+        {
+            "bufferView" : 10, 
+            "componentType" : 5123, 
+            "count" : 234003, 
+            "max" : [
+                49679
+            ], 
+            "min" : [
+                0
+            ], 
+            "type" : "SCALAR"
+        }, 
+        {
+            "bufferView" : 11, 
+            "componentType" : 5126, 
+            "count" : 49680, 
+            "max" : [
+                1.5642226934432983, 
+                8.90476131439209, 
+                -0.30935853719711304
+            ], 
+            "min" : [
+                -11.228570938110352, 
+                -7.826539516448975, 
+                -3.8924713134765625
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 12, 
+            "componentType" : 5126, 
+            "count" : 49680, 
+            "max" : [
+                0.99969482421875, 
+                0.999969482421875, 
+                0.999847412109375
+            ], 
+            "min" : [
+                -0.999908447265625, 
+                -0.999908447265625, 
+                -0.999969482421875
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 13, 
+            "componentType" : 5126, 
+            "count" : 49680, 
+            "max" : [
+                0.9999927282333374, 
+                0.9999356269836426, 
+                0.9999861121177673, 
+                1.0
+            ], 
+            "min" : [
+                -0.9999815225601196, 
+                -0.9999555349349976, 
+                -0.9999412298202515, 
+                -1.0
+            ], 
+            "type" : "VEC4"
+        }, 
+        {
+            "bufferView" : 14, 
+            "componentType" : 5126, 
+            "count" : 49680, 
+            "max" : [
+                0.9991806149482727, 
+                0.9992639999836683
+            ], 
+            "min" : [
+                0.0007279327255673707, 
+                0.0007359981536865234
+            ], 
+            "type" : "VEC2"
+        }, 
+        {
+            "bufferView" : 15, 
+            "componentType" : 5123, 
+            "count" : 251145, 
+            "max" : [
+                52617
+            ], 
+            "min" : [
+                0
+            ], 
+            "type" : "SCALAR"
+        }, 
+        {
+            "bufferView" : 16, 
+            "componentType" : 5126, 
+            "count" : 52618, 
+            "max" : [
+                11.361472129821777, 
+                8.862714767456055, 
+                3.9198198318481445
+            ], 
+            "min" : [
+                -9.882826805114746, 
+                4.215453147888184, 
+                -0.9617075324058533
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 17, 
+            "componentType" : 5126, 
+            "count" : 52618, 
+            "max" : [
+                0.9941099286079407, 
+                0.999969482421875, 
+                0.999969482421875
+            ], 
+            "min" : [
+                -0.99969482421875, 
+                -0.9316690564155579, 
+                -0.6669209599494934
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 18, 
+            "componentType" : 5126, 
+            "count" : 52618, 
+            "max" : [
+                0.999961793422699, 
+                0.9999866485595703, 
+                0.9984541535377502, 
+                1.0
+            ], 
+            "min" : [
+                -0.9999997615814209, 
+                -0.999980092048645, 
+                -0.9989662170410156, 
+                -1.0
+            ], 
+            "type" : "VEC4"
+        }, 
+        {
+            "bufferView" : 19, 
+            "componentType" : 5126, 
+            "count" : 52618, 
+            "max" : [
+                0.999197244644165, 
+                0.9992629999760538
+            ], 
+            "min" : [
+                0.0011114904191344976, 
+                0.0008471012115478516
+            ], 
+            "type" : "VEC2"
+        }
+    ], 
+    "asset" : {
+        "generator" : "Soft8Soft Verge3D for Blender add-on", 
+        "version" : "2.0"
+    }, 
+    "bufferViews" : [
+        {
+            "buffer" : 0, 
+            "byteLength" : 578106, 
+            "byteOffset" : 0, 
+            "target" : 34963
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 738672, 
+            "byteOffset" : 578108, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 738672, 
+            "byteOffset" : 1316780, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 984896, 
+            "byteOffset" : 2055452, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 492448, 
+            "byteOffset" : 3040348, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 603126, 
+            "byteOffset" : 3532796, 
+            "target" : 34963
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 780588, 
+            "byteOffset" : 4135924, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 780588, 
+            "byteOffset" : 4916512, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 1040784, 
+            "byteOffset" : 5697100, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 520392, 
+            "byteOffset" : 6737884, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 468006, 
+            "byteOffset" : 7258276, 
+            "target" : 34963
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 596160, 
+            "byteOffset" : 7726284, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 596160, 
+            "byteOffset" : 8322444, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 794880, 
+            "byteOffset" : 8918604, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 397440, 
+            "byteOffset" : 9713484, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 502290, 
+            "byteOffset" : 10110924, 
+            "target" : 34963
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 631416, 
+            "byteOffset" : 10613216, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 631416, 
+            "byteOffset" : 11244632, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 841888, 
+            "byteOffset" : 11876048, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 420944, 
+            "byteOffset" : 12717936, 
+            "target" : 34962
+        }
+    ], 
+    "buffers" : [
+        {
+            "byteLength" : 13138880, 
+            "uri" : "Fountainhorse.bin"
+        }
+    ], 
+    "cameras" : [
+        {
+            "extensions" : {
+                "S8S_v3d_camera_data" : {
+                    "controls" : "ORBIT", 
+                    "enablePan" : true, 
+                    "moveSpeed" : 1.0, 
+                    "orbitMaxDistance" : 100.0, 
+                    "orbitMaxPolarAngle" : 3.1415927410125732, 
+                    "orbitMinDistance" : 0.0, 
+                    "orbitMinPolarAngle" : 0.0, 
+                    "orbitTarget" : [
+                        0.0, 
+                        0.0, 
+                        -0.0
+                    ], 
+                    "rotateSpeed" : 1.0, 
+                    "viewportFitInitialAspect" : 1.7777777616808443, 
+                    "viewportFitType" : "AUTO"
+                }
+            }, 
+            "name" : "Camera", 
+            "perspective" : {
+                "aspectRatio" : 1.7777777616808443, 
+                "yfov" : 0.5033799416096446, 
+                "zfar" : 100.0, 
+                "znear" : 0.10000000149011612
+            }, 
+            "type" : "perspective"
+        }
+    ], 
+    "extensions" : {
+        "S8S_v3d_data" : {
+            "lights" : [
+                {
+                    "color" : [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ], 
+                    "constantAttenuation" : 1.0, 
+                    "decay" : 1, 
+                    "distance" : 29.999982833862305, 
+                    "intensity" : 100.0, 
+                    "linearAttenuation" : 0.0, 
+                    "name" : "Lamp", 
+                    "profile" : "blender", 
+                    "quadraticAttenuation" : 0.03333335240683057, 
+                    "type" : "point"
+                }, 
+                {
+                    "color" : [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ], 
+                    "constantAttenuation" : 1.0, 
+                    "decay" : 1, 
+                    "distance" : 29.999982833862305, 
+                    "intensity" : 100.0, 
+                    "linearAttenuation" : 0.0, 
+                    "name" : "Lamp.001", 
+                    "profile" : "blender", 
+                    "quadraticAttenuation" : 0.03333335240683057, 
+                    "type" : "point"
+                }, 
+                {
+                    "color" : [
+                        0, 
+                        0, 
+                        0
+                    ], 
+                    "name" : "Ambient_Scene", 
+                    "profile" : "blender", 
+                    "type" : "ambient"
+                }
+            ]
+        }
+    }, 
+    "extensionsUsed" : [
+        "S8S_v3d_texture_data", 
+        "S8S_v3d_material_data", 
+        "S8S_v3d_camera_data", 
+        "S8S_v3d_data", 
+        "S8S_v3d_mesh_data", 
+        "S8S_v3d_node_data", 
+        "S8S_v3d_scene_data"
+    ], 
+    "images" : [
+        {
+            "uri" : "FountainHorse01.jpg"
+        }, 
+        {
+            "uri" : "FountainHorse02.jpg"
+        }, 
+        {
+            "uri" : "FountainHorse03.jpg"
+        }, 
+        {
+            "uri" : "FountainHorse04.jpg"
+        }
+    ], 
+    "materials" : [
+        {
+            "alphaMode" : "BLEND", 
+            "emissiveFactor" : [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "extensions" : {
+                "S8S_v3d_material_data" : {
+                    "alpha" : 1.0, 
+                    "diffuseColor" : [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ], 
+                    "diffuseIntensity" : 1.0, 
+                    "diffuseShader" : "LAMBERT", 
+                    "diffuseTexture" : {
+                        "index" : 0
+                    }, 
+                    "specularAlpha" : 1.0, 
+                    "specularColor" : [
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    "specularHardness" : 1, 
+                    "specularIntensity" : 1.0, 
+                    "specularShader" : "COOKTORR", 
+                    "useCastShadows" : false, 
+                    "useShadeless" : false, 
+                    "useShadows" : false
+                }
+            }, 
+            "name" : "Material_0"
+        }, 
+        {
+            "alphaMode" : "BLEND", 
+            "emissiveFactor" : [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "extensions" : {
+                "S8S_v3d_material_data" : {
+                    "alpha" : 1.0, 
+                    "diffuseColor" : [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ], 
+                    "diffuseIntensity" : 1.0, 
+                    "diffuseShader" : "LAMBERT", 
+                    "diffuseTexture" : {
+                        "index" : 1
+                    }, 
+                    "specularAlpha" : 1.0, 
+                    "specularColor" : [
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    "specularHardness" : 1, 
+                    "specularIntensity" : 1.0, 
+                    "specularShader" : "COOKTORR", 
+                    "useCastShadows" : false, 
+                    "useShadeless" : false, 
+                    "useShadows" : false
+                }
+            }, 
+            "name" : "Material_1"
+        }, 
+        {
+            "alphaMode" : "BLEND", 
+            "emissiveFactor" : [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "extensions" : {
+                "S8S_v3d_material_data" : {
+                    "alpha" : 1.0, 
+                    "diffuseColor" : [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ], 
+                    "diffuseIntensity" : 1.0, 
+                    "diffuseShader" : "LAMBERT", 
+                    "diffuseTexture" : {
+                        "index" : 2
+                    }, 
+                    "specularAlpha" : 1.0, 
+                    "specularColor" : [
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    "specularHardness" : 1, 
+                    "specularIntensity" : 1.0, 
+                    "specularShader" : "COOKTORR", 
+                    "useCastShadows" : false, 
+                    "useShadeless" : false, 
+                    "useShadows" : false
+                }
+            }, 
+            "name" : "Material_2"
+        }, 
+        {
+            "alphaMode" : "BLEND", 
+            "emissiveFactor" : [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "extensions" : {
+                "S8S_v3d_material_data" : {
+                    "alpha" : 1.0, 
+                    "diffuseColor" : [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ], 
+                    "diffuseIntensity" : 1.0, 
+                    "diffuseShader" : "LAMBERT", 
+                    "diffuseTexture" : {
+                        "index" : 3
+                    }, 
+                    "specularAlpha" : 1.0, 
+                    "specularColor" : [
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    "specularHardness" : 1, 
+                    "specularIntensity" : 1.0, 
+                    "specularShader" : "COOKTORR", 
+                    "useCastShadows" : false, 
+                    "useShadeless" : false, 
+                    "useShadows" : false
+                }
+            }, 
+            "name" : "Material_3"
+        }
+    ], 
+    "meshes" : [
+        {
+            "extensions" : {
+                "S8S_v3d_mesh_data" : {
+                    "colorLayers" : {}, 
+                    "uvLayers" : {}
+                }
+            }, 
+            "name" : "FountainHorse", 
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2, 
+                        "POSITION" : 1, 
+                        "TANGENT" : 3, 
+                        "TEXCOORD_0" : 4
+                    }, 
+                    "indices" : 0, 
+                    "material" : 0, 
+                    "mode" : 4
+                }, 
+                {
+                    "attributes" : {
+                        "NORMAL" : 7, 
+                        "POSITION" : 6, 
+                        "TANGENT" : 8, 
+                        "TEXCOORD_0" : 9
+                    }, 
+                    "indices" : 5, 
+                    "material" : 2, 
+                    "mode" : 4
+                }, 
+                {
+                    "attributes" : {
+                        "NORMAL" : 12, 
+                        "POSITION" : 11, 
+                        "TANGENT" : 13, 
+                        "TEXCOORD_0" : 14
+                    }, 
+                    "indices" : 10, 
+                    "material" : 1, 
+                    "mode" : 4
+                }, 
+                {
+                    "attributes" : {
+                        "NORMAL" : 17, 
+                        "POSITION" : 16, 
+                        "TANGENT" : 18, 
+                        "TEXCOORD_0" : 19
+                    }, 
+                    "indices" : 15, 
+                    "material" : 3, 
+                    "mode" : 4
+                }
+            ]
+        }
+    ], 
+    "nodes" : [
+        {
+            "camera" : 0, 
+            "extensions" : {
+                "S8S_v3d_node_data" : {
+                    "frustumCulling" : true, 
+                    "hidden" : false, 
+                    "renderOrder" : 0
+                }
+            }, 
+            "name" : "Camera", 
+            "rotation" : [
+                -0.03477653115987778, 
+                0.20898102223873138, 
+                0.00744233001023531, 
+                0.9772728681564331
+            ], 
+            "scale" : [
+                1.0, 
+                0.9999998211860657, 
+                0.9999999403953552
+            ], 
+            "translation" : [
+                25.868833541870117, 
+                12.38577938079834, 
+                53.77080154418945
+            ]
+        }, 
+        {
+            "extensions" : {
+                "S8S_v3d_node_data" : {
+                    "frustumCulling" : true, 
+                    "hidden" : false, 
+                    "renderOrder" : 0
+                }
+            }, 
+            "mesh" : 0, 
+            "name" : "FountainHorse", 
+            "rotation" : [
+                5.960464477539063e-08, 
+                0.0, 
+                -0.0, 
+                1.0
+            ], 
+            "translation" : [
+                0.0, 
+                7.876708507537842, 
+                -0.0
+            ]
+        }, 
+        {
+            "extensions" : {
+                "S8S_v3d_node_data" : {
+                    "frustumCulling" : true, 
+                    "hidden" : false, 
+                    "light" : 0, 
+                    "renderOrder" : 0
+                }
+            }, 
+            "name" : "Lamp", 
+            "rotation" : [
+                -0.2841663062572479, 
+                0.7269423604011536, 
+                0.34203389286994934, 
+                0.5232754945755005
+            ], 
+            "scale" : [
+                0.9999999403953552, 
+                0.9999997615814209, 
+                0.9999998807907104
+            ], 
+            "translation" : [
+                12.708023071289062, 
+                26.723106384277344, 
+                25.11732292175293
+            ]
+        }, 
+        {
+            "extensions" : {
+                "S8S_v3d_node_data" : {
+                    "frustumCulling" : true, 
+                    "hidden" : false, 
+                    "light" : 1, 
+                    "renderOrder" : 0
+                }
+            }, 
+            "name" : "Lamp.001", 
+            "rotation" : [
+                -0.2841663062572479, 
+                0.7269423604011536, 
+                0.34203389286994934, 
+                0.5232754945755005
+            ], 
+            "scale" : [
+                0.9999999403953552, 
+                0.9999997615814209, 
+                0.9999998807907104
+            ], 
+            "translation" : [
+                12.708023071289062, 
+                11.349776268005371, 
+                -45.88233184814453
+            ]
+        }
+    ], 
+    "samplers" : [
+        {}
+    ], 
+    "scene" : 0, 
+    "scenes" : [
+        {
+            "extensions" : {
+                "S8S_v3d_scene_data" : {
+                    "ambientColor" : [
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    "horizonColor" : [
+                        0.041, 
+                        0.041, 
+                        0.041
+                    ], 
+                    "light" : 2
+                }
+            }, 
+            "extras" : {
+                "animFrameRate" : 24
+            }, 
+            "name" : "Scene", 
+            "nodes" : [
+                3, 
+                1, 
+                2, 
+                0
+            ]
+        }
+    ], 
+    "textures" : [
+        {
+            "extensions" : {
+                "S8S_v3d_texture_data" : {
+                    "colorSpace" : "srgb"
+                }
+            }, 
+            "name" : "Kd", 
+            "sampler" : 0, 
+            "source" : 0
+        }, 
+        {
+            "extensions" : {
+                "S8S_v3d_texture_data" : {
+                    "colorSpace" : "srgb"
+                }
+            }, 
+            "name" : "Kd.001", 
+            "sampler" : 0, 
+            "source" : 1
+        }, 
+        {
+            "extensions" : {
+                "S8S_v3d_texture_data" : {
+                    "colorSpace" : "srgb"
+                }
+            }, 
+            "name" : "Kd.002", 
+            "sampler" : 0, 
+            "source" : 2
+        }, 
+        {
+            "extensions" : {
+                "S8S_v3d_texture_data" : {
+                    "colorSpace" : "srgb"
+                }
+            }, 
+            "name" : "Kd.003", 
+            "sampler" : 0, 
+            "source" : 3
+        }
+    ]
+}
